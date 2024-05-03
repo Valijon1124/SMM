@@ -98,10 +98,9 @@
                 <div class="row copyright">
                     <div class="col-md-12">
                         <p class="pull-left">
-                            <small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small>
-                            <small class="block">Designed by <a href="http://GetTemplates.co/" target="_blank">GetTemplates.co</a>
-                                Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></small>
-                        </p>
+                            <small class="block"></small>
+                            <small class="block"></a>
+                                                        </p>
                     </div>
                 </div>
             </div>
